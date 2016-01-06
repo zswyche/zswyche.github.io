@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+I am a senior at Columbia Univeristy studying Civil Engineering.  My interest in data science increased after working at the MTA in 2015.  This site showscases the various projects I have worked on.
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This site was created with Jekyll.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zswyche@gmail.com](mailto:zswyche@gmail.com)
