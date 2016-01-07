@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Flatbush Flatbush
-excerpt_separator: <!--more-->
 ---
 ##A GIS study of race and Flatbush Avenue
 
