@@ -15,7 +15,7 @@ avatar: https://avatars3.githubusercontent.com/u/16565420?v=3&s=460
 # Flags below are optional
 #
 # Used to change excerpt size
-excerpt_separator: <!--more-->
+excerpt_separator: <span class="more"></span>
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
