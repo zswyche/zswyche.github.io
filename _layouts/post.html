@@ -7,6 +7,7 @@ layout: default
 
   <div class="entry">
     {{ content }}
+    {{ content | remove_first: '<!--more-->', '' }}
   </div>
 
   <div class="date">
