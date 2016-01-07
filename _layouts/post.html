@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+{{ content | remove_first: '<!--more-->', '' }}
 <article class="post">
   <h1>{{ page.title }}</h1>
 
