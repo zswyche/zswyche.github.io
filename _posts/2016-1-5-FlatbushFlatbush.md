@@ -17,8 +17,10 @@ alt="click for full picture" width="500" height="333" border="10" /></a>
 alt="click for video" width="500" height="280" border="10" /></a>
 
 ######Final Project from "Datascapes and the Informal City" with Professor Leah Meisterlin
-{{ content | replace: '<!--more-->', '' }}
-_Flatbush Flatbush_ is a dynamic visualization of demographic change in the area along Flatbush Avenue south of Prospect Park, also called Flatbush, Brooklyn. <!--more-->
+{{ content | remove_first: '<!--more-->', '' }}
+_Flatbush Flatbush_ is a dynamic visualization of demographic change in the area along Flatbush Avenue south of Prospect Park, also called Flatbush, Brooklyn. 
+
+<!--more-->
 
 Two trends emerge over time which are clear in the maps and data visualisations: a steadily increasing Black population and a steadily decreasing white population. Between 1920 and 2010 Brooklyn’s black population slowly approaches a border, or “wall” at Flatbush Avenue near Brooklyn College. Be it through formal or informal processes, Flatbush Avenue functions as a line of segregation, which remains incredibly rigid to this day. Census data from the first half of the 20th century show that Brooklyn’s black population was mostly confined to the area north of Prospect Park. This pattern of segregation was (re)affirmed by the Home Owners’ Loan Corporation, a corporation created as part of the New Deal to help homeowners finance and refinance their mortgages. The HOLC authored a series of ‘Residential Security Maps,’ meant to show areas in need of investment, but these maps were actually used to further entrench segregation and demarcate areas which would receive the least investment. These were, usually, areas with high Black populations. Redlining, as the practice came to be known, ensured segregation would continue for decades to come. And while it did, in the midst of suburbanization in the 1950s and 1960s, and White Flight in the 1970s and 1980s, many once predominantly white neighborhoods became predominantly black neighborhoods.
 
