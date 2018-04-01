@@ -19,7 +19,7 @@ excerpt_separator: <span class="more"></span>
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: zswyche@gmail.com
+  email: zswychedata@gmail.com
   facebook:
   flickr:
   github: zswyche
@@ -27,7 +27,7 @@ footer-links:
   linkedin: zachary-wyche-4b5912a2
   pinterest:
   rss: anything # just type anything here for a working RSS icon
-  twitter: 
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
