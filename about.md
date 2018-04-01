@@ -11,4 +11,4 @@ This site was created with Jekyll.
 
 ### Contact me
 
-[zswyche@gmail.com](mailto:zswyche@gmail.com)
+[zswychedata@gmail.com](mailto:zswychedata@gmail.com)
